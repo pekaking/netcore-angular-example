@@ -1,0 +1,15 @@
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.deps.json
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.runtimeconfig.json
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.runtimeconfig.dev.json
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.dll
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.pdb
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.csproj.CoreCompileInputs.cache
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.AssemblyInfoInputs.cache
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.AssemblyInfo.cs
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.dll
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.pdb
+c:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.dll
+c:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Data.dll
+c:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.pdb
+c:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Data.pdb
+c:\users\petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.Web\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.Web.csprojResolveAssemblyReference.cache

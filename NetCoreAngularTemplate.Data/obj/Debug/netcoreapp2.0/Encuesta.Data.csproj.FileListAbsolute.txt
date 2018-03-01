@@ -1,0 +1,9 @@
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\bin\Debug\netcoreapp2.0\Encuesta.Data.deps.json
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\bin\Debug\netcoreapp2.0\Encuesta.Data.dll
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\obj\Debug\netcoreapp2.0\Encuesta.Data.csprojResolveAssemblyReference.cache
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\obj\Debug\netcoreapp2.0\Encuesta.Data.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\obj\Debug\netcoreapp2.0\Encuesta.Data.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\obj\Debug\netcoreapp2.0\Encuesta.Data.AssemblyInfo.cs
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\bin\Debug\netcoreapp2.0\Encuesta.Data.pdb
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\obj\Debug\netcoreapp2.0\Encuesta.Data.dll
+C:\Users\Petar\source\repos\Encuesta\Encuesta.Data\obj\Debug\netcoreapp2.0\Encuesta.Data.pdb

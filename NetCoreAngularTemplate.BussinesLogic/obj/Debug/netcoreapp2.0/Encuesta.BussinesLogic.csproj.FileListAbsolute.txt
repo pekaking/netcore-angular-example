@@ -1,0 +1,11 @@
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\bin\Debug\netcoreapp2.0\Encuesta.Data.dll
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\obj\Debug\netcoreapp2.0\Encuesta.BussinesLogic.csprojResolveAssemblyReference.cache
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\obj\Debug\netcoreapp2.0\Encuesta.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\obj\Debug\netcoreapp2.0\Encuesta.BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\obj\Debug\netcoreapp2.0\Encuesta.BussinesLogic.AssemblyInfo.cs
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\bin\Debug\netcoreapp2.0\Encuesta.BussinesLogic.deps.json
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\bin\Debug\netcoreapp2.0\Encuesta.BussinesLogic.dll
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\bin\Debug\netcoreapp2.0\Encuesta.BussinesLogic.pdb
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\bin\Debug\netcoreapp2.0\Encuesta.Data.pdb
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\obj\Debug\netcoreapp2.0\Encuesta.BussinesLogic.dll
+C:\Users\Petar\source\repos\Encuesta\Encuesta.BussinesLogic\obj\Debug\netcoreapp2.0\Encuesta.BussinesLogic.pdb

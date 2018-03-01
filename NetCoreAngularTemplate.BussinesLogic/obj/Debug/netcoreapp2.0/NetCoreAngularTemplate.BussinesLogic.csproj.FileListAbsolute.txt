@@ -1,0 +1,11 @@
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.csprojResolveAssemblyReference.cache
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.AssemblyInfo.cs
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.deps.json
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.dll
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.pdb
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Data.dll
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\bin\Debug\netcoreapp2.0\NetCoreAngularTemplate.Data.pdb
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.dll
+C:\Users\Petar\source\repos\NetCoreAngularTemplate\NetCoreAngularTemplate.BussinesLogic\obj\Debug\netcoreapp2.0\NetCoreAngularTemplate.BussinesLogic.pdb
